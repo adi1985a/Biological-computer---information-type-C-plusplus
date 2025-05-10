@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1678235857 source:c:\users\hp\desktop\programy na github\c++\programs\biological computer - information type\main.cpp
+	<conio.h>
+	<fstream>
+	<iostream>
+
+1742006204 source:f:\my portafolio it ulepszona\c++\programs\biological computer - information type\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	"config.hpp"
+	"visualization.hpp"
+
+1742005960 f:\my portafolio it ulepszona\c++\programs\biological computer - information type\config.hpp
+	<string>
+	<map>
+	<fstream>
+
+1742006072 f:\my portafolio it ulepszona\c++\programs\biological computer - information type\visualization.hpp
+	<string>
+	<windows.h>
+
+1742006158 source:f:\my portafolio it ulepszona\c++\programs\biological computer - information type\visualization.cpp
+	"visualization.hpp"
+	<iostream>
+
