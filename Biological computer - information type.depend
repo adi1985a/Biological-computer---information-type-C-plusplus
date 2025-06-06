@@ -4,23 +4,27 @@
 	<fstream>
 	<iostream>
 
-1742006204 source:f:\my portafolio it ulepszona\c++\programs\biological computer - information type\main.cpp
+1749168754 source:f:\my portafolio it ulepszona\c++\programs\biological computer - information type\main.cpp
 	<iostream>
 	<vector>
 	<stdexcept>
+	<windows.h>
+	<limits>
+	<conio.h>
 	"config.hpp"
 	"visualization.hpp"
 
-1742005960 f:\my portafolio it ulepszona\c++\programs\biological computer - information type\config.hpp
+1749168746 f:\my portafolio it ulepszona\c++\programs\biological computer - information type\config.hpp
 	<string>
 	<map>
 	<fstream>
+	<sstream>
 
-1742006072 f:\my portafolio it ulepszona\c++\programs\biological computer - information type\visualization.hpp
-	<string>
+1749169356 f:\my portafolio it ulepszona\c++\programs\biological computer - information type\visualization.hpp
 	<windows.h>
+	<string>
 
-1742006158 source:f:\my portafolio it ulepszona\c++\programs\biological computer - information type\visualization.cpp
+1749168908 source:f:\my portafolio it ulepszona\c++\programs\biological computer - information type\visualization.cpp
 	"visualization.hpp"
 	<iostream>
 
