@@ -1,4 +1,4 @@
-# 🧠🖥️ NeuroSim Interface: Bio-Computer Simulator 👁️👂👃👅✋
+# 🧠🖥️ BioBote - NeuroSim Interface: Bio-Computer Simulator 👁️👂👃👅✋
 _A C++ console application simulating a bio-computer interface for managing sensory information types and displaying brain hemisphere information, featuring ASCII art visualizations._
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -22,6 +22,8 @@ _A C++ console application simulating a bio-computer interface for managing sens
 ## 📄 Overview
 
 **NeuroSim Interface: Bio-Computer Simulator**, developed by Adrian Lesniak, is a C++ console application designed to simulate a conceptual bio-computer interface. It focuses on managing and displaying different types of sensory information (Picture, Sound, Taste, Smell, Kinesthetic feeling) and providing illustrative information about brain hemispheres. The program utilizes a menu-driven user interface enhanced with ASCII art visualizations (managed via `visualization.hpp`). It features robust input validation, exception handling for a smooth user experience, and configurations defined in a user-provided `config.hpp`. The application is primarily targeted for Windows due to its use of `system("cls")` and `system("pause")`.
+
+![Demo GIF](screenshots/1.gif)
 
 ## ✨ Key Features
 
@@ -50,9 +52,19 @@ _A C++ console application simulating a bio-computer interface for managing sens
 
 ## 🖼️ Screenshots (Conceptual)
 
-**Coming soon!**
+_Conceptual mockups or actual screenshots if the ASCII art is elaborate, demonstrating: the main menu with banner, the information types list, details of a selected sensory type, the brain info screen, and the about program screen._
 
-_This section would ideally show conceptual mockups or actual screenshots if the ASCII art is elaborate, demonstrating: the main menu with banner, the information types list, details of a selected sensory type, the brain info screen, and the about program screen._
+<p align="center">
+  <img src="screenshots\1.jpg" width="300"/>
+  <img src="screenshots\2.jpg" width="300"/>
+  <img src="screenshots\3.jpg" width="300"/>
+  <img src="screenshots\4.jpg" width="300"/>
+  <img src="screenshots\5.jpg" width="300"/>
+  <img src="screenshots\6.jpg" width="300"/>
+  <img src="screenshots\7.jpg" width="300"/>
+  <img src="screenshots\8.jpg" width="300"/>
+  <img src="screenshots\9.jpg" width="300"/>
+</p>
 
 ## ⚙️ System Requirements
 
