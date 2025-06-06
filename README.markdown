@@ -1,4 +1,4 @@
-# 🧠🖥️ BioBote - NeuroSim Interface: Bio-Computer Simulator 👁️👂👃👅✋
+# 🧠🖥️ NeuroSim Interface: Bio-Computer Simulator 👁️👂👃👅✋
 _A C++ console application simulating a bio-computer interface for managing sensory information types and displaying brain hemisphere information, featuring ASCII art visualizations._
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -61,9 +61,6 @@ _Conceptual mockups or actual screenshots if the ASCII art is elaborate, demonst
   <img src="screenshots\4.jpg" width="300"/>
   <img src="screenshots\5.jpg" width="300"/>
   <img src="screenshots\6.jpg" width="300"/>
-  <img src="screenshots\7.jpg" width="300"/>
-  <img src="screenshots\8.jpg" width="300"/>
-  <img src="screenshots\9.jpg" width="300"/>
 </p>
 
 ## ⚙️ System Requirements
